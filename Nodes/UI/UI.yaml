@@ -87,7 +87,7 @@ Children:
     DataType: String
     ModellingRule: Optional
     Value: "TestProject14"
-  - Name: Label1
+  - Name: Label3
     Type: Label
     Children:
     - Name: Text
